@@ -1,7 +1,7 @@
-import { Bs1Circle } from "react-icons/bs";
+import { FiActivity } from "@react-icons/all-files/fi/FiActivity";
 
 describe("ComponentName.cy.js", () => {
   it("playground", () => {
-    cy.mount(<Bs1Circle />);
+    cy.mount(<FiActivity />);
   });
 });
